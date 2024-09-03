@@ -5,7 +5,7 @@ Welcome to the [Team-8] repository! This project is designed to recommend the be
  🌟 Key Milestones
 
 1. Data Collection 📊  
-   Our journey begins with gathering comprehensive datasets from various educational platforms. This crucial step ensures our model is trained on the most relevant and up-to-date information, enabling accurate course recommendations.
+   Our journey begins with gathering comprehensive datasets from various educational platforms. This crucial step ensures our model is trained on the most relevant and up-to-date information, enabling accurate course recommendations.We collected data in Excel file to train model
 
 2. User Interface Development 🖥  
    The user experience is at the heart of our project. We'll design and implement a clean, intuitive interface that allows users to easily interact.
