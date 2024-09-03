@@ -8,7 +8,7 @@ This project about courses based on user inputs such as course category (Program
    We gathered datasets from educational platforms and stored them in Excel to train our model, ensuring relevant and accurate course recommendations.
 
 2. User Interface Development 🖥  
-   We'll design and implement interface that allows users to easily interact.
+   We will design and implement an interface that allows users to easily interact.
 
 3. Model Training & Optimization 🤖  
    Harnessing the power of machine learning, we will train our models to understand user preferences and suggest courses that best match their needs. We'll continually refine and optimize the models for greater accuracy and efficiency.
