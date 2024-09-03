@@ -17,7 +17,7 @@ This project is designed to recommend courses based on your inputs using ML algo
    We'll integrate all components, ensuring smooth operation from data processing to model deployment.
 
 5. Continuous Testing & Feedback 🔄
-   Adopting Agile practices, we will regularly test and gather feedback on each iteration, making improvements where necessary to ensure that our solution remains user-centric and high-performing.
+   We will apply Agile methodology for continuous testing and feedback, allowing us to make ongoing improvements and adjustments to ensure our solution remains user-centric.
 
 📅 Timeline & Deliverables
 
@@ -30,8 +30,8 @@ We are committed to delivering high-quality results on time. Here's a tentative 
 -  Four days 9/7/2024 to 9/11/2024: Final Review & Launch
 
 
-📍 Requirements
-   . Installing Gradio frame work
+📍 Requirements 
+       . Installing Gradio framework
 
 🤝 Contributing
 
