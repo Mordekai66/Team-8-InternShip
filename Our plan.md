@@ -1,6 +1,6 @@
 🚀 Project Overview
 
-Welcome to the [Team-8] repository! This project is designed to recommend the best courses based on your inputs using ML algorithm, with a strong focus on delivering value through Agile methodologies. We are committed to building a user interface. The project will evolve iteratively.
+This project is designed to recommend the best courses based on your inputs using ML algorithm, with a strong focus on delivering value through Agile methodologies. We are committed to building a user interface. The project will evolve iteratively.
 
  🌟 Key Milestones
 
