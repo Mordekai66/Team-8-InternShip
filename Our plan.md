@@ -23,11 +23,11 @@ Welcome to the [Team-8] repository! This project is designed to recommend the be
 
 We are committed to delivering high-quality results on time. Here's a tentative timeline for our project:
 
--  A week : Data Collection & Analysis
--  Two days: UI/UX Design & Initial Prototyping
--  Two days: Model Training & Testing
--  Two days: Full Integration & System Testing
--  Four days : Final Review & Launch
+-  A week 8/25/2024 to 9/1/2024 : Data Collection & Analysis
+-  Two days 9/1/2024 to 9/3/2024: UI/UX Design & Initial Prototyping
+-  Two days 9/3/2024 to 9/5/2024 : Model Training & Testing
+-  Two days 9/5/2024 to 9/7/2024: Full Integration & System Testing
+-  Four days 9/7/2024 to 9/11/2024: Final Review & Launch
 
 🤝 Contributing
 
