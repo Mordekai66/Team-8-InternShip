@@ -1,6 +1,6 @@
 🚀 Project Overview
 
-This project about courses based on user inputs such as course category (Programming, AI, ML), difficulty level (Beginner, Average, Advanced), and whether the course is paid or free, using an ML algorithm (K-Means). We are committed to building a user interface that will evolve iteratively, applying Agile methodology for continuous improvement and feedback.
+This project about courses based on user inputs such as course category (Programming, AI, ML), difficulty level (Beginner, Intermediate, Advanced), and whether the course is paid or free, using an ML algorithm (K-Means). We are committed to building a user interface that will evolve iteratively, applying Agile methodology for continuous improvement and feedback.
 
  🌟 Key Milestones
 
