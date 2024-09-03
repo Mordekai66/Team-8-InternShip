@@ -5,18 +5,18 @@ This project is designed to recommend courses based on your inputs using ML algo
  🌟 Key Milestones
 
 1. Data Collection 📊  
-   Our journey begins with gathering comprehensive datasets from various educational platforms. This crucial step ensures our model is trained on the most relevant and up-to-date information, enabling accurate course recommendations.We collected data in Excel file to train model
+   We gathered datasets from educational platforms and stored them in Excel to train our model, ensuring relevant and accurate course recommendations.
 
 2. User Interface Development 🖥  
-   The user experience is at the heart of our project. We'll design and implement a clean, intuitive interface that allows users to easily interact.
+   We'll design and implement interface that allows users to easily interact.
 
 3. Model Training & Optimization 🤖  
    Harnessing the power of machine learning, we will train our models to understand user preferences and suggest courses that best match their needs. We'll continually refine and optimize the models for greater accuracy and efficiency.
 
 4. Code Implementation & Integration 💻  
-   We will develop and integrate all necessary components, from data processing pipelines to model deployment. This phase ensures that all parts of the project work seamlessly together.
+   We'll integrate all components, ensuring smooth operation from data processing to model deployment.
 
-5. Continuous Testing & Feedback 🔄  
+5. Continuous Testing & Feedback 🔄
    Adopting Agile practices, we will regularly test and gather feedback on each iteration, making improvements where necessary to ensure that our solution remains user-centric and high-performing.
 
 📅 Timeline & Deliverables
@@ -31,7 +31,7 @@ We are committed to delivering high-quality results on time. Here's a tentative 
 
 
 📍 Requirements
-    . Installing Gradio frame work
+   . Installing Gradio frame work
 
 🤝 Contributing
 
