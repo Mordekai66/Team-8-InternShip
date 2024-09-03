@@ -22,7 +22,8 @@ This project about courses based on user inputs such as course category (Program
 📅 Timeline & Deliverables
 
 We are committed to delivering high-quality results on time. Here's a tentative timeline for our project:
-![image](https://github.com/user-attachments/assets/b8141b91-c4a7-49af-bebb-a0b5d54ac4cb)
+![image](https://github.com/user-attachments/assets/dbbfe208-7932-4ba1-8bf3-b7bde4451b31)
+
 
 -  A week 8/25/2024 to 9/1/2024 : Data Collection & organizing data
 -  Two days 9/1/2024 to 9/3/2024 : Model Training & Testing
