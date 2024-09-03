@@ -17,6 +17,7 @@ This project about courses based on user inputs such as course category (Program
    We'll integrate all components, ensuring smooth operation from data processing to model deployment.
 
 5. Continuous Testing & Feedback 🔄
+
    We will apply Agile methodology for continuous testing and feedback, allowing us to make ongoing improvements and adjustments to ensure our solution remains user-centric.
 
 📅 Timeline & Deliverables
