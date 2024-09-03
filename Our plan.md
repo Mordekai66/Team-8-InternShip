@@ -1,6 +1,6 @@
 🚀 Project Overview
 
-This project is designed to recommend the best courses based on your inputs using ML algorithm. We are committed to building a user interface. The project will evolve iteratively.
+This project is designed to recommend courses based on your inputs using ML algorithm. We are committed to building a user interface. The project will evolve iteratively.
 
  🌟 Key Milestones
 
