@@ -32,6 +32,7 @@ We are committed to delivering high-quality results on time. Here's a tentative 
 
 📍 Requirements
     . Installing Gradio frame work
+
 🤝 Contributing
 
 We welcome collaboration! Feel free to explore the repository, submit issues, and contribute to the project. Together, we can make a difference in the world of online education.
