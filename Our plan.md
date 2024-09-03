@@ -10,7 +10,7 @@ This project about courses based on user inputs such as course category (Program
 2. User Interface Development 🖥  
    We will design and implement an interface that allows users to easily interact.
 
-3. Model Training & Optimization 🤖  
+3. Model Training & Evaluation 🤖  
    We will train our model using a machine learning algorithm (K-Means) to understand user preferences and recommend the most appropriate courses. Model will be continually improved to improve accuracy and efficiency.
 
 4. Code Implementation & Integration 💻  
