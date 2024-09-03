@@ -29,6 +29,9 @@ We are committed to delivering high-quality results on time. Here's a tentative 
 -  Two days 9/5/2024 to 9/7/2024: Full Integration & System Testing
 -  Four days 9/7/2024 to 9/11/2024: Final Review & Launch
 
+
+📍 Requirements
+    . Installing Gradio frame work
 🤝 Contributing
 
 We welcome collaboration! Feel free to explore the repository, submit issues, and contribute to the project. Together, we can make a difference in the world of online education.
