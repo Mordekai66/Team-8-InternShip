@@ -5,7 +5,7 @@ This project about courses based on user inputs such as course category (Program
  🌟 Key Milestones
 
 1. Data Collection 📊  
-   We gathered data from educational platforms and stored them in Excel to train our model, ensuring relevant and accurate course recommendations.
+   We gathered data from educational platforms and stored them in Excel to train our model, ensuring relevant and accurate course recommendations. We collected data from Edraak, Udemy, Coursera, Hasoub, Code academy, Solo learn, Edx and LinkedIn platforms.
 
 2. User Interface Development 🖥  
    We will design and implement an interface that allows users to easily interact.
