@@ -1,0 +1,9 @@
+🚀 Sprint 2 Review: Model Training & Testing
+    In this sprint, our primary focus was on the training and testing of our recommendation model.
+
+The key activities during this phase were:
+  🔬 Model Training: We utilized the data collected in the previous sprint to train our recommendation model. This involved feeding the model with structured data to enable it to learn and make accurate course recommendations based on user preferences.
+  🧪 Model Testing: After training, we thoroughly tested the model to evaluate its performance.
+  
+
+Through these activities, we prepare for the next steps in the project, which will include developing the user interface
