@@ -8,7 +8,7 @@ This project about courses based on user inputs such as course category (Program
    We gathered data from educational platforms and stored them in Excel to train our model, ensuring relevant and accurate course recommendations. We collected data from Edraak, Udemy, Coursera, Hasoub, Code academy, Solo learn, Edx and LinkedIn platforms.
 
 2. User Interface Development 🖥  
-   We will design and implement an interface that allows users to easily interact.
+   We will design and implement an interface using (gradio) that allows users to easily interact.
 
 3. Model Training & Evaluation 🤖  
    We will train our model using a machine learning algorithm (K-Means) to understand user preferences and recommend the most appropriate courses. Model will be continually improved to improve accuracy and efficiency.
