@@ -33,7 +33,7 @@ We are committed to delivering high-quality results on time. Here's a tentative 
 -  Four days (9/7/2024 to 9/11/2024): Final Review & Launch
 
 📍 Requirements 
-       . Installing Gradio the framework
+       . Installing the library Gradio
 
 🤝 Contributing
 
