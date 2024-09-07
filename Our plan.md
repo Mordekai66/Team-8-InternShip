@@ -7,11 +7,11 @@ This project about courses based on user inputs such as course category (Program
 1. Data Collection 📊  
    We gathered data from educational platforms and stored them in Excel to train our model, ensuring relevant and accurate course recommendations. We collected data from Edraak, Udemy, Coursera, Hasoub, Code academy, Solo learn, Edx and LinkedIn platforms.
 
-2. User Interface Development 🖥  
-   We will design and implement an interface using (gradio) that allows users to easily interact.
-
-3. Model Training & Evaluation 🤖  
+2. Model Training & Evaluation 🤖  
    We will train our model using a machine learning algorithm (K-Means) to understand user preferences and recommend the most appropriate courses. Model will be continually improved to improve accuracy and efficiency.
+   
+3. User Interface Development 🖥  
+   We will design and implement an interface using (gradio) that allows users to easily interact.
 
 4. Code Implementation & Integration 💻  
    We'll integrate all components, ensuring smooth operation from data processing to model deployment.
@@ -34,7 +34,7 @@ We are committed to delivering high-quality results on time. Here's a tentative 
 - Two days (9/9/2024 to 9/11/2024): Final Review & Launch
 
 📍 Requirements 
-       . Installing the library Gradio
+       . Installing Tkinter, google.generativeai and joblib libraries
 
 🤝 Contributing
 
