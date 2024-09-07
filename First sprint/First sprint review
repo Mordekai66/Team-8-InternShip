@@ -1,8 +1,10 @@
-🎇 Sprint 1 Review
+🚀 Sprint 3 Review: Data collection
 In this sprint, our primary focus was on gathering and organizing the foundational data required for our project, which aims to recommend courses based on user inputs. Throughout this phase, we undertook the following key activities:
-
-📊 Data Collection: We meticulously gathered data related to various educational courses. This included details such as course titles, descriptions, categories, and other relevant attributes that would help in making informed recommendations.
-
-💾 Data Storage: The collected data has been organized and stored in an Excel file. This structured approach allows for easy manipulation and retrieval of data, which is essential for the next phases of the project.
+  
+  📊 Data Collection: We meticulously gathered data related to various educational courses. This included details such as course titles, descriptions, categories, and other relevant attributes that would help in making informed recommendations.
+  
+  💾 Data Storage: The collected data has been organized and stored in an Excel file. This structured approach allows for easy manipulation and retrieval of data, which is essential for the next phases of the project.
 
 In the next sprint, we will focus on using this data to train the recommendation model.
+
+Note: We are continuing to collect data and will update these files regularly.
