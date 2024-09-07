@@ -1,0 +1,11 @@
+In this sprint, our primary focus was on designing the user interface and integrating the model with the Gemini API.
+
+Key activities during this phase included:
+
+  - 🔧 User interface design: We created a user interface using (Tkinter library).
+    
+  - 🔗 Model Integration with Gemini API: After finalizing the UI, we integrated the model with the Gemini API, ensuring smooth data integration for accurate and reliable recommendations.
+
+Through these activities, we are preparing to move on to the next steps in the project, which will involve testing the user interface and refining the integration with the API.
+
+Note: We are continuing to collect data and will update these files regularly.
