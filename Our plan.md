@@ -23,14 +23,14 @@ This project about courses based on user inputs such as course category (Program
 📅 Timeline & Deliverables
 
 We are committed to delivering high-quality results on time. Here's a tentative timeline for our project:
-![image](https://github.com/user-attachments/assets/4e39a1f1-694e-4ffe-867a-53c0894d7396)
+![image](https://github.com/user-attachments/assets/c5b47776-9174-44c5-9180-b6d5756abce7)
 
 
 
 - A week (8/25/2024 to 9/1/2024): Data Collection & organizing data
 - Two days (9/1/2024 to 9/3/2024): Model Training & Testing
 - Four days (9/3/2024 to 9/7/2024): User interface design
-- Four days (9/7/2024 to 9/11/2024): Full Integration & System Testing Final Review
+- Four days (9/7/2024 to 9/11/2024): Full Integration & System Testing & Final Review
 
 📍 Requirements 
        . Installing Tkinter, google.generativeai and joblib libraries
