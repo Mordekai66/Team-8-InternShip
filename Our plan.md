@@ -30,8 +30,7 @@ We are committed to delivering high-quality results on time. Here's a tentative 
 - A week (8/25/2024 to 9/1/2024): Data Collection & organizing data
 - Two days (9/1/2024 to 9/3/2024): Model Training & Testing
 - Four days (9/3/2024 to 9/7/2024): User interface design
-- Two days (9/7/2024 to 9/9/2024): Full Integration & System Testing
-- Two days (9/9/2024 to 9/11/2024): Final Review & Launch
+- Four days (9/7/2024 to 9/11/2024): Full Integration & System Testing Final Review
 
 📍 Requirements 
        . Installing Tkinter, google.generativeai and joblib libraries
