@@ -1,0 +1,7 @@
+pip install tkinterdnd2
+pip install google-generativeai
+pip install pandas
+pip install PyPDF2
+pip install Pillow
+pip install joblib
+pip install pytesseract
