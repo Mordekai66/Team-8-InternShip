@@ -12,16 +12,14 @@ This project about courses based on user inputs such as course category (Program
    We will train our model using a machine learning algorithm (K-Means) to understand user preferences and recommend the most appropriate courses. Model will be continually improved to improve accuracy and efficiency.
 
 3. User Interface Development 🖥  
-   We will design and implement an interface using (gradio) that allows users to easily interact.
+   We will design and implement an interface using (Tkinter library) that allows users to easily interact.
 
 4. Code Implementation & Integration 💻  
    We'll integrate all components, ensuring smooth operation from data processing to model deployment.
-Course Prediction 🤖:
 
 5. Continuous Testing & Feedback 🔄
 
    We will apply Agile methodology for continuous testing and feedback, allowing us to make ongoing improvements and adjustments to ensure our solution remains user-centric.
-Firstly you should choose an input method:
 
 📅 Timeline & Deliverables
 
