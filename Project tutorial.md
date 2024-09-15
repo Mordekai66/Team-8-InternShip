@@ -27,7 +27,7 @@ Upload a File: Choose Image, PDF, or TXT. You can upload your CV or details of y
 
 Work Schedule Generation 🕛:
 
-Input your work start and end times, as well as the number of days available for study.
+Input course name, work start and end times, as well as the number of days available for study.
 Receive a customized study schedule and tips, based on the selected course and your availability.
 
 ![image](https://github.com/user-attachments/assets/c17b66bc-064c-464f-b866-ffe6af89b1b5)
