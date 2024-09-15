@@ -11,18 +11,21 @@ Course Prediction 🤖:
 Firstly you should choose an input method:
 
 
-![image](https://github.com/user-attachments/assets/9cf16722-5a16-4e1b-90d2-e3b6a2f60453)
+![image](https://github.com/user-attachments/assets/bdb47fb0-4a75-4797-a9a9-ebc960edfe31)
+
 
 
  Input: Choose to Inputs, and a drop-down form will appear. Select the course category, programming language, difficulty level, and free/paid option. Then, click "Predict" to see recommended courses.
 
  
-![image](https://github.com/user-attachments/assets/3748dbd8-8ab9-401a-b60f-0cc715f28937)
+![image](https://github.com/user-attachments/assets/84284151-b295-4e48-9dca-6bb67837d8c8)
+
 
 
 Upload a File: Choose Image, PDF, or TXT. You can upload your CV or details of your skills/experience. After uploading, click "Predict" to see courses based on your background.
 
-![image](https://github.com/user-attachments/assets/6678079f-0b36-4b7d-89e1-594ac703c86f)
+![image](https://github.com/user-attachments/assets/1f7e974f-486a-4df2-a20b-cb7d2c4b41ee)
+
 
 
 Work Schedule Generation 🕛:
@@ -30,7 +33,8 @@ Work Schedule Generation 🕛:
 Input course name, work start and end times, as well as the number of days available for study.
 Receive a customized study schedule and tips, based on the selected course and your availability.
 
-![image](https://github.com/user-attachments/assets/c17b66bc-064c-464f-b866-ffe6af89b1b5)
+![image](https://github.com/user-attachments/assets/c7166ad7-027f-4e85-bc45-e2fce10c0070)
+
 
 
 How to Use 🛠:
@@ -41,22 +45,27 @@ Choose your Category from the dropdown menu.
 Select your Programming Language (enabled based on the selected category).
 Choose the Difficulty Level.
 Specify if the course is Free or Paid.
-![image](https://github.com/user-attachments/assets/757a698f-7980-44b6-affc-0004f3e455f4)
+
+
+![image](https://github.com/user-attachments/assets/17f3febb-7b60-46d9-b848-2e0e9cd75e93)
+
 
 Then, Click the "Predict" button to see the recommended courses based on your preferences.
-![image](https://github.com/user-attachments/assets/1dab0cd8-7d41-4e71-9c3e-4016c3823cfe)
+![image](https://github.com/user-attachments/assets/deeffcfc-4595-4d59-b0e1-162913a7a6a2)
 
 Upload file:
 
 
 Upload a File: Choose Image, PDF, or TXT. You can upload your CV or details of your skills/experience.
-![image](https://github.com/user-attachments/assets/32bd3213-026f-47ba-a344-19a2286f3726)
+![image](https://github.com/user-attachments/assets/366a3326-8da5-44f9-ab46-fb47389bfbd4)
+
 
 
 After uploading, click "Predict" to see courses based on your background.
 
 
-![image](https://github.com/user-attachments/assets/f44cfc70-5eac-4af3-8ca7-66b7e7a70aca)
+![image](https://github.com/user-attachments/assets/49458420-c8f6-4b67-ada5-518e822b27f2)
+
 
 
 
@@ -66,10 +75,15 @@ Schedule Your Study Time 🕛:
 Choose a course from the dropdown menu.
 Enter your Work Start Time and End Time.
 Specify the number of Work Days available for study.
-![image](https://github.com/user-attachments/assets/ef4bef00-7cbc-41e0-a11f-fdbe1ff27b03)
+Enter number of days dow you want to complete this course.
+
+
+![image](https://github.com/user-attachments/assets/5e701721-ee20-44ea-8045-d0ad9d488165)
+
 
 Click "Get Schedule" to receive a study schedule and tips.
-![image](https://github.com/user-attachments/assets/8c24e690-4375-49a4-ac11-e1aff082926a)
+![image](https://github.com/user-attachments/assets/eaa6f996-84d0-4789-aa89-b3c470f5a38c)
+
 
 
 Setup:
